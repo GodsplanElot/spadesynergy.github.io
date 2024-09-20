@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Template
 
-Template Name: Techie
-Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template project name: Spadeynergy
+Template framework: bootstrap
+Project Director: Godsplan
+Frontend Developer: Emmanuel Okpa
